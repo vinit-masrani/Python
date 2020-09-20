@@ -87,7 +87,7 @@ ____
 
 
 **1. Single line comment**
-In python, we use # special character to start the comment.
+In python, we use # special character to start the comment. <br>
 **2. Multi-line comment**
 To have a multi-line comment in Python, we use triple single quotes at the beginning and at the end of the comment.
   
@@ -178,7 +178,7 @@ ___
 ### <a name="Datatypes">Datatypes</a>
 
 
-* String
+1. String
 
    String is a sequence of characters in Python. The data type of String in Python is called “str”. Strings in Python are either enclosed with single quotes or double quotes. Like many other popular programming languages, strings in Python are arrays of bytes representing unicode characters.However, Python does not have a character data type, a single character is simply a string with a length of 1. Square brackets can be used to access elements of the string.
    
@@ -194,7 +194,7 @@ To learn more visit sites below :
 - [Pynative](https://pynative.com/python-string-exercise/)
 
 
-* List
+2. List
 
 Lists are just like dynamic sized arrays, declared in other languages (vector in C++ and ArrayList in Java). Lists need not be homogeneous always which makes it a most powerful tool in Python. A single list may contain DataTypes like Integers, Strings, as well as Objects. Lists are mutable, and hence, they can be altered even after their creation. List in Python are ordered and have a definite count. The elements in a list are indexed according to a definite sequence and the indexing of a list is done with 0 being the first index. Each element in the list has its definite place in the list, which allows duplicating of elements in the list, with each element having its own distinct place and credibility. In Python lists are written with square brackets.
 
@@ -210,7 +210,7 @@ To learn more visit sites below :
 - [Pynative](https://pynative.com/python-list-exercise-with-solutions/)
 
 
-* Tuples
+3. Tuples
 
 
 Tuple is a collection of Python objects much like a list. The sequence of values stored in a tuple can be of any type, and they are indexed by integers. Values of a tuple are syntactically separated by ‘commas’. Although it is not necessary, it is more common to define a tuple by closing the sequence of values in parentheses. This helps in understanding the Python tuples more easily. In Python, tuples are created by placing sequence of values separated by ‘comma’ with or without the use of parentheses for grouping of data sequence.
@@ -229,7 +229,7 @@ To learn more visit sites below :
 - [Pynative](https://pynative.com/python-tuple-exercise-with-solutions/)
 
 
-* Sets
+4. Sets
 
 In Python, Set is an unordered collection of data type that is iterable, mutable and has no duplicate elements. The order of elements in a set is undefined though it may consist of various elements. The major advantage of using a set, as opposed to a list, is that it has a highly optimized method for checking whether a specific element is contained in the set.
 Sets can be created by using the built-in set() function with an iterable object or a sequence by placing the sequence inside curly braces, separated by ‘comma’.
@@ -248,7 +248,7 @@ To learn more visit sites below :
 - [Pynative](https://pynative.com/python-set-exercise-with-solutions/)
 
 
-* Dictionary
+5. Dictionary
 
 Dictionary in Python is an unordered collection of data values, used to store data values like a map, which unlike other Data Types that hold only single value as an element, Dictionary holds key:value pair. Key value is provided in the dictionary to make it more optimized.
 
@@ -316,23 +316,11 @@ To learn more visit sites below :
 
 ### <a name="RegularExpression">Regular Expression</a>
 
-Regular expressions are a powerful language for matching text patterns. This page gives a basic introduction to regular expressions themselves sufficient for our Python exercises and shows how regular expressions work in Python. The Python "re" module provides regular expression support.
+Regular expressions are a powerful language for matching text patterns. This page gives a basic introduction to regular expressions themselves sufficient for our Python exercises and shows how regular expressions work in Python. The Python "re" module provides regular expression support. <br>
 
 To understand the RE analogy, MetaCharacters are useful, important and will be used in functions of module re.There are a total of 14 metacharacters as listed below :
-\   Used to drop the special meaning of character
-    following it 
-[]  Represent a character class
-^   Matches the beginning
-$   Matches the end
-.   Matches any character except newline
-?   Matches zero or one occurrence.
-|   Means OR (Matches with any of the characters
-    separated by it.
-*   Any number of occurrences (including 0 occurrences)
-+   One or more occurrences
-{}  Indicate number of occurrences of a preceding RE 
-    to match.
-()  Enclose a group of REs
+
+<img src="Images/RegularExpression.JPG" alt="RegularExpression">
 
 To learn more visit sites below :
 
