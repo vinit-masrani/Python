@@ -1,4 +1,4 @@
-﻿# Python - A Complete Guide📖
+# :zap: Python - A Complete Guide 📖
 
 <img src="Images/python.jpg" alt="BannerImage">
 <p align="center">
@@ -22,7 +22,7 @@
 * <a href="#Resources">Resources</a>
 * <a href="#Courses">Courses</a>
 * <a href="#Youtube">Youtube Channels</a>
-* <a href="#Project">Project Ideas</a>
+* <a href="#Projects">Project Ideas</a>
 * <a href="#Practice">Practice Problems</a>
 * <a href="#Books">Books</a>
 
