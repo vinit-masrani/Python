@@ -36,7 +36,7 @@ Python is developed by Guido van Rossum in 1991 and further developed by the Pyt
 
  [Interesting fact: Python is named after the comedy television show Monty Python’s Flying Circus. It is not named after the Python snake.]
 
-Advantages :
+**Advantages :**
 1) Presence of third-party modules
 2) Extensive support libraries(NumPy for numerical calculations, Pandas for data analytics etc)
 3) Open source and community development
@@ -48,7 +48,7 @@ Advantages :
 9) Portable and Interactive
 10) Portable across Operating systems
 
-Applications :
+**Applications :**
 1) GUI based desktop applications(Games, Scientific Applications)
 2) Web frameworks and applications
 3) Enterprise and Business applications
@@ -81,14 +81,14 @@ ____
 
 ### <a name="Comments">Comments</a>
 
-There are two types of comments in Python.
+**There are two types of comments in Python.**
 1. Single line comment
 2. Multiple line comments
 
 
-Single line comment
+**1. Single line comment**
 In python, we use # special character to start the comment.
-Multi-line comment
+**2. Multi-line comment**
 To have a multi-line comment in Python, we use triple single quotes at the beginning and at the end of the comment.
   
 <img src="Images/comments.jpg" alt="Comments">
@@ -120,16 +120,16 @@ ___
 
 ### <a name="Conditions">Conditions</a>
 
-If statement
+**If statement**
 An "if statement" is written by using the if keyword.
 
-Elif
+**Elif**
 The elif keyword is Python's way of saying "if the previous conditions were not true, then try this condition".
 
-Else
+**Else**
 The else keyword catches anything which isn't caught by the preceding conditions.
 
-Nested If
+**Nested If**
 You can have if statements inside if statements, this is called nested if statements.
 
 To learn more visit sites below :
@@ -146,19 +146,19 @@ ___
 
 ### <a name="Loops">Loops</a>
 
-For Loop
+**For Loop**
 A for loop is used for iterating over a sequence (that is either a list, a tuple, a dictionary, a set, or a string).This is less like the ’for’ keyword in other programming languages, and works more like an iterator method as found in other object-orientated programming languages.With the for loop we can execute a set of statements, once for each item in a list, tuple, set etc.
 
-While Loop
+**While Loop**
 With the while loop we can execute a set of statements as long as a condition is true.
 
-Break Statement
+**Break Statement**
 With the ‘break’ statement we can stop the loop before it has looped through all the items.
 
-Continue Statement
+**Continue Statement**
 With the continue statement we can stop the current iteration of the loop, and continue with the next.
 
-Range() Function
+**Range() Function**
 To loop through a set of code a specified number of times, we can use the range() function. The range() function returns a sequence of numbers, starting from 0 by default, and increments by 1 (by default), and ends at a specified number.
 
 To learn more visit sites below :
@@ -167,7 +167,7 @@ To learn more visit sites below :
 - [W3Schools for Loops](https://www.w3schools.com/python/python_for_loops.asp)
 - [PythonCourse Site for Loops](https://www.python-course.eu/python3_for_loop.php)
 
-Practice Problems:
+**Practice Problems:**
 
 - [W3Resource](https://www.w3resource.com/python-exercises/python-conditional-statements-and-loop-exercises.php)
 - [Pynative](https://pynative.com/python-if-else-and-for-loop-exercise-with-solutions/)
@@ -188,7 +188,7 @@ To learn more visit sites below :
 - [W3Schools for Strings](https://www.w3schools.com/python/python_strings.asp)
 - [BeginnersBook for Strings](https://beginnersbook.com/2018/02/python-strings/)
 
-Practice Problems:
+**Practice Problems:**
 
 - [W3Resource](https://www.w3resource.com/python-exercises/string/)
 - [Pynative](https://pynative.com/python-string-exercise/)
@@ -204,7 +204,7 @@ To learn more visit sites below :
 - [W3Schools for Lists](https://www.w3schools.com/python/python_lists.asp)
 - [BeginnersBook for Lists](https://beginnersbook.com/2018/02/python-list/)
 
-Practice Problems:
+**Practice Problems:**
 
 - [W3Resource](https://www.w3resource.com/python-exercises/list/)
 - [Pynative](https://pynative.com/python-list-exercise-with-solutions/)
@@ -223,7 +223,7 @@ To learn more visit sites below :
 - [Tutorialspoint for Tuples](https://www.tutorialspoint.com/python/python_tuples.htm)
 - [W3Schools for Tuples](https://www.w3schools.com/python/python_tuples.asp)
 
-Practice Problems:
+**Practice Problems:**
 
 - [W3Resource](https://www.w3resource.com/python-exercises/tuple/)
 - [Pynative](https://pynative.com/python-tuple-exercise-with-solutions/)
@@ -242,7 +242,7 @@ To learn more visit sites below :
 - [Tutorialspoint for Sets](https://www.tutorialspoint.com/python_data_structure/python_sets.htm)
 - [W3Schools for Sets](https://www.w3schools.com/python/python_sets.asp)
 
-Practice Problems:
+**Practice Problems:**
 
 - [W3Resource](https://www.w3resource.com/python-exercises/sets/)
 - [Pynative](https://pynative.com/python-set-exercise-with-solutions/)
@@ -264,7 +264,7 @@ To learn more visit sites below :
 - [Tutorialspoint for Dictionary](https://www.tutorialspoint.com/python/python_dictionary.htm)
 - [W3Schools for Dictionary](https://www.w3schools.com/python/python_dictionaries.asp)
 
-Practice Problems:
+**Practice Problems:**
 
 - [W3Resource](https://www.w3resource.com/python-exercises/dictionary/)
 - [Pynative](https://pynative.com/python-dictionary-exercise-with-solutions/)
@@ -284,7 +284,7 @@ To learn more visit sites below :
 - [GeeksForGeeks for Functions](https://www.geeksforgeeks.org/functions-in-python/)
 
 
-Practice Problems:
+**Practice Problems:**
 
 - [W3Resource](https://www.w3resource.com/python-exercises/python-functions-exercises.php)
 - [Pynative](https://pynative.com/python-functions-exercise-with-solutions/)
@@ -307,7 +307,7 @@ To learn more visit sites below :
 - [Beginnersbook for Classes](https://beginnersbook.com/2018/03/python-class-and-objects/)
 
 
-Practice Problems:
+**Practice Problems:**
 
 - [W3Resource](https://www.w3resource.com/python-exercises/class-exercises/)
 - [Codescope](https://www.codesdope.com/practice/python-your-class/)
@@ -341,7 +341,7 @@ To learn more visit sites below :
 - [Developers site for RegularExpression](https://developers.google.com/edu/python/regular-expressions)
 
 
-Practice Problems:
+**Practice Problems:**
 
 - [W3Resource](https://www.w3resource.com/python-exercises/re/)
 
@@ -364,7 +364,7 @@ To learn more visit sites below :
 - [GeeksForGeeks for File Handling](https://www.geeksforgeeks.org/file-handling-python/)
 
 
-Practice Problems:
+**Practice Problems:**
 
 - [W3Resource](https://www.w3resource.com/python-exercises/file/)
 - [Codescope](https://www.my-courses.net/2020/03/exercise-on-python-files-io.html)
